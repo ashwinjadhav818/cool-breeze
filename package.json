@@ -1,17 +1,37 @@
 {
     "name": "cool-breeze",
-    "displayName": "cool-breeze",
+    "displayName": "Cool Breeze",
     "description": "This Is A Cool Breeze Theme Inspired By Cobalt 2 Theme",
-    "publisher": "Ash All-Rounder",
+    "publisher": "AshAll-Rounder",
     "author": {
         "name": "Ashwin Jadhav"
     },
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.56.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AshAll-Rounder/cool-breeze"
+    },
+    "bugs": {
+        "url": "https://github.com/AshAll-Rounder/cool-breeze/issues"
+    },
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Cool Breeze",
+        "Cool Theme",
+        "Dark Theme",
+        "Themes",
+        "Cobalt 2",
+        "Cobalt2",
+        "Cobalt"
     ],
     "contributes": {
         "themes": [

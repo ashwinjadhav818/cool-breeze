@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "cool-breeze"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Cool Breeze Theme For Visual Studio Code
+## Thank You For Checking Out My Theme
+This Theme Is Inspired By Cobalt 2 Theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## This Theme Looks Good In Fira Code & Cascadia Code
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Tell Your Issues At [Github Issues](https://github.com/AshAll-Rounder/cool-breeze/issues)
 
 **Enjoy!**

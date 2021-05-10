@@ -6,7 +6,7 @@
     "author": {
         "name": "Ashwin Jadhav"
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -21,16 +21,20 @@
         "color": "#09131b",
         "theme": "dark"
     },
+    "icon": "images/logo.png",
     "categories": [
         "Themes"
     ],
     "keywords": [
         "Cool Breeze",
+        "Cool Breeze Theme",
         "Cool Theme",
         "Dark Theme",
         "Themes",
         "Cobalt 2",
+        "Cobalt 2 Theme",
         "Cobalt2",
+        "Cobalt Theme",
         "Cobalt"
     ],
     "contributes": {
@@ -38,7 +42,7 @@
             {
                 "label": "Cool Breeze",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Cool Breeze-color-theme.json"
+                "path": "./themes/Cool Breeze.json"
             }
         ]
     }

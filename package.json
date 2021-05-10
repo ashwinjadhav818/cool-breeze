@@ -1,0 +1,25 @@
+{
+    "name": "cool-breeze",
+    "displayName": "cool-breeze",
+    "description": "This Is A Cool Breeze Theme Inspired By Cobalt 2 Theme",
+    "publisher": "Ash All-Rounder",
+    "author": {
+        "name": "Ashwin Jadhav"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cool Breeze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cool Breeze-color-theme.json"
+            }
+        ]
+    }
+}

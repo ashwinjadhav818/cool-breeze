@@ -4,9 +4,6 @@
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-	  "function": {
-		"foreground": "#FFC600"
-	  },
 	  "variable": "#00E8C6",
 	  "interface": {
 		// "foreground": "#ff0088",
@@ -597,6 +594,13 @@
 		}
 	  },
 	  {
+		"name": "[JAVASCRIPT] - Entity Function Name",
+		"scope": "entity.name.function",
+		"settings": {
+		  "foreground": "#00e8c6"
+		}
+	  },
+	  {
 		"name": "[PYTHON] - Self Argument",
 		"scope": "variable.parameter.function.language.special.self.python",
 		"settings": {
@@ -625,6 +629,15 @@
 		],
 		"settings": {
 		  "foreground": "#92FC79"
+		}
+	  },
+	  {
+		"name": "[JSON] - Punctuation",
+		"scope": [
+		  "punctuation.support.type.property-name"
+		],
+		"settings": {
+		  "foreground": "#FFC600"
 		}
 	  },
 	  {

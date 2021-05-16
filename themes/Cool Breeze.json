@@ -4,7 +4,7 @@
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-	  "variable": "#00E8C6",
+	  "variable": "#FFE75C",
 	  "interface": {
 		// "foreground": "#ff0088",
 		"foreground": "#FF68B8",

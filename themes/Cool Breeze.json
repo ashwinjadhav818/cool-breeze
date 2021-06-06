@@ -509,6 +509,13 @@
 		}
 	  },
 	  {
+		"name": "[CSS] - Pseudo Class",
+		"scope": "entity.other.attribute-name.pseudo-class.css",
+		"settings": {
+		  "foreground": "#FFC600"
+		}
+	  },
+	  {
 		"name": "[HTML] - Entity Name",
 		"scope": "text.html.basic entity.name",
 		"settings": {

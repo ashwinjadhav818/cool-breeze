@@ -852,9 +852,9 @@
 	  },
 	  {
 		"name": "[Java] - Variable Language",
-		"scope": "entity.name.type.class.java",
+		"scope": "entity.name.type.class",
 		"settings": {
-		  "foreground": "#80ffbb"
+		  "foreground": "#ffe75c"
 		}
 	  },
 	  {

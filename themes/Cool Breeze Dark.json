@@ -11,6 +11,13 @@
 			}
 		},
 		{
+			"name": "Text",
+			"scope": "meta.jsx.children",
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
 			"name": "String",
 			"scope": "string",
 			"settings": {

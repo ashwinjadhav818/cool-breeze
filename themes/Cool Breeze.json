@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Cool Breeze",
+	"name": "Cool Breeze Italic",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -491,10 +491,25 @@
 			}
 		},
 		{
-			"name": "[CSS] - Pseudo Class",
+			"name": "[CSS] - Variable",
 			"scope": "entity.other.attribute-name.pseudo-class.css",
 			"settings": {
-				"foreground": "#FFC600"
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "[CSS] - Class",
+			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "[CSS] - Psudo Element",
+			"scope": "entity.other.attribute-name.pseudo-element.css",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#3AD900"
 			}
 		},
 		{
@@ -531,6 +546,13 @@
 			"scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
 			"settings": {
 				"foreground": "#92fc79"
+			}
+		},
+		{
+			"name": "[HTML] - Tags Attributes",
+			"scope": "entity.other.attribute-name.html",
+			"settings": {
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -587,6 +609,34 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"foreground": "#00e8c6"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - From",
+			"scope": "keyword.control.from.js",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Object",
+			"scope": "variable.other.object.property.js",
+			"settings": {
+				"foreground": "#9effff"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Property",
+			"scope": "variable.other.property.js",
+			"settings": {
+				"foreground": "#00e8c6"
+			}
+		},
+		{
+			"name": "[JSX] - Varibles",
+			"scope": "entity.other.attribute-name.js",
+			"settings": {
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -832,7 +882,7 @@
 			}
 		},
 		{
-			"name": "Italicsify for Operator Mono",
+			"name": "Italicsify for Cascadia Code",
 			"scope": [
 				"modifier",
 				"this",
@@ -845,10 +895,11 @@
 				"entity.other.attribute-name.js",
 				"entity.other.attribute-name.ts",
 				"entity.other.attribute-name.tsx",
-				"entity.other.attribute-name.html"
+				"entity.other.attribute-name.html",
+				"entity.other.attribute-name.svelte"
 			],
 			"settings": {
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{

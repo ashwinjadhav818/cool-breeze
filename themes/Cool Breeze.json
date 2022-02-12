@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Cool Breeze Italic",
+	"name": "Cool Breeze",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
